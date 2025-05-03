@@ -10,7 +10,7 @@
  * 
  */
 
-function maximumPathSumI(triangle) {
+export function maximumPathSumI(triangle) {
     const cols = triangle[0].length
     const rows = triangle.length
 
